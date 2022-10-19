@@ -1,0 +1,12 @@
+-La mayor diferencia entre ambos es que uno se utiliza mas para repositorios 
+ privados(BitBucket) y GitHub se utiliza principalmente para repositorios publicos
+
+-GitHub tiene una comunidad mas grande que BitBucket
+
+-BitBucket cuenta con una mejor integracion de extensiones que GitHub ya que cuenta con el
+ Atlassian Marketplace, que tiene aproximadamente 2.300 aplicaciones que pueden utilizarse 
+ tanto para Bitbucket como para los productos hermanos del Atlas.
+
+-GitHub ofrece un cliente de escritorio y soporte para SVN. Bitbucket no lo hace
+
+-Bitbucket ofrece soporte para Mercurial y GitHub no.
