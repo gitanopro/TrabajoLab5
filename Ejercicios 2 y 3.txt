@@ -1,0 +1,39 @@
+Ejercicio 2:
+
+git commit
+git checkout master
+git commit
+git push
+
+Ejercicio 3:
+
+git branch rama1
+git commit
+git checkout rama1
+git commit
+git checkout feature
+git checkout master
+git branch rama2
+git commit
+git checkout rama2
+git commit
+git merge rama2
+git checkout feature
+git merge rama1
+git checkout master
+
+mode = remote
+git branch rama3
+git checkout rama3
+git commit
+git checkout master
+git commit
+git merge rama3
+git checkout 1c016b6
+git branch rama4
+git checkout rama4
+git commit
+git merge feature
+git checkout master
+
+
