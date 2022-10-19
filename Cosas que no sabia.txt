@@ -1,0 +1,3 @@
+-No sabia que GitHub tenia un sistema de pago para poder trabajar con muchos desarrolladores.
+
+-No sabia que el tamaño maximo de un repositorio es de un GB (en la version gratuita):
